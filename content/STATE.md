@@ -1,3 +1,6 @@
+---
+notion_page_id: 3d24b311-cde1-812d-b6b7-c105de987f4d
+---
 # STATE：活狀態卡
 
 > **GM 每回合開工前必讀本檔與 [[創作/fiction/Green & Umin/SETTINGS|SETTINGS]]。**本檔只記「現在」，歷史請查 [[創作/fiction/Green & Umin/TIMELINE|TIMELINE]]，人物請查 [[創作/fiction/Green & Umin/CHARACTERS|CHARACTERS]]。

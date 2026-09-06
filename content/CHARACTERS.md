@@ -1,3 +1,6 @@
+---
+notion_page_id: 3d24b311-cde1-8122-a0c1-e09b6bcf2fe2
+---
 # CHARACTERS：人物誌
 
 > 「現役」放最前，GM 每回合必讀；「已退場」只留一行遺產摘要，需要細節再查 archive 原文。
